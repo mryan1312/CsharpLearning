@@ -1,0 +1,20 @@
+/.DS_Store
+/Engines
+/Engines new pc setup.ps1
+/Find-BADSVCPath.ps1
+/Get-SVCPath.ps1
+/Local Admins.ps1
+/PlatformCompare
+/PlatformCompare.sln
+/Python
+/Result.txt
+/SMH
+/Tester
+/Testing
+/crowdstrike-rollback.ps1
+/dotnet-install.ps1
+/dotnetinstaller.ps1
+/newuser.ps1
+/signoutofwamaccounts.ps1
+/targetlist.txt
+/usergen.ps1

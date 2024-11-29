@@ -1,0 +1,14 @@
+/Users/madams/Library/CloudStorage/OneDrive-KalmerInvestmentsLLC/Documents/Scripts/Learning/bin/Debug/net9.0/Learning
+/Users/madams/Library/CloudStorage/OneDrive-KalmerInvestmentsLLC/Documents/Scripts/Learning/bin/Debug/net9.0/Learning.deps.json
+/Users/madams/Library/CloudStorage/OneDrive-KalmerInvestmentsLLC/Documents/Scripts/Learning/bin/Debug/net9.0/Learning.runtimeconfig.json
+/Users/madams/Library/CloudStorage/OneDrive-KalmerInvestmentsLLC/Documents/Scripts/Learning/bin/Debug/net9.0/Learning.dll
+/Users/madams/Library/CloudStorage/OneDrive-KalmerInvestmentsLLC/Documents/Scripts/Learning/bin/Debug/net9.0/Learning.pdb
+/Users/madams/Library/CloudStorage/OneDrive-KalmerInvestmentsLLC/Documents/Scripts/Learning/obj/Debug/net9.0/Learning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madams/Library/CloudStorage/OneDrive-KalmerInvestmentsLLC/Documents/Scripts/Learning/obj/Debug/net9.0/Learning.AssemblyInfoInputs.cache
+/Users/madams/Library/CloudStorage/OneDrive-KalmerInvestmentsLLC/Documents/Scripts/Learning/obj/Debug/net9.0/Learning.AssemblyInfo.cs
+/Users/madams/Library/CloudStorage/OneDrive-KalmerInvestmentsLLC/Documents/Scripts/Learning/obj/Debug/net9.0/Learning.csproj.CoreCompileInputs.cache
+/Users/madams/Library/CloudStorage/OneDrive-KalmerInvestmentsLLC/Documents/Scripts/Learning/obj/Debug/net9.0/Learning.dll
+/Users/madams/Library/CloudStorage/OneDrive-KalmerInvestmentsLLC/Documents/Scripts/Learning/obj/Debug/net9.0/refint/Learning.dll
+/Users/madams/Library/CloudStorage/OneDrive-KalmerInvestmentsLLC/Documents/Scripts/Learning/obj/Debug/net9.0/Learning.pdb
+/Users/madams/Library/CloudStorage/OneDrive-KalmerInvestmentsLLC/Documents/Scripts/Learning/obj/Debug/net9.0/Learning.genruntimeconfig.cache
+/Users/madams/Library/CloudStorage/OneDrive-KalmerInvestmentsLLC/Documents/Scripts/Learning/obj/Debug/net9.0/ref/Learning.dll
