@@ -1,8 +1,4 @@
-﻿using System;
-using System.Runtime.CompilerServices;
-using System.Security.Cryptography.X509Certificates;
-
-// initialize variables - graded assignments 
+﻿// initialize variables - graded assignments 
 int currentAssignments = 5;
 
 int[,] studentScores = {{0, 92, 86, 87, 98, 100}, {1, 92, 89, 81, 96, 90}, {2, 90, 85, 87, 98, 68}, {3, 90, 95, 87, 88, 96}};
@@ -24,11 +20,6 @@ static int ScoreSum(int studentID, int[,] studentScores) {
         }
     }
     return 0;
-}
-
-int [,] studentGrades ={{0,0}, {1,0}, {2,0}, {3,0}};
-for (int i =0; i < studentGrades.GetLength(0); i++) {
-    studentGrades[i,1] = (ScoreSum(studentGrades[i,0], studentScores) / currentAssignments);
 }
 
 static string GetGrade(int grade) {
@@ -74,7 +65,12 @@ static string GetGrade(int grade) {
     return "Invalid Grade.";
 }
 
+int [,] studentGrades ={{0,0}, {1,0}, {2,0}, {3,0}};
+for (int i =0; i < studentGrades.GetLength(0); i++) {
+    studentGrades[i,1] = (ScoreSum(studentGrades[i,0], studentScores) / currentAssignments);
+}
 
+// Create Dictionary of Students and student IDs, iterate through dictionary to get names and grades
 Console.WriteLine("Student\t\tGrade\n");
 Console.WriteLine("Sophia:\t\t" + (studentGrades[0,1]) + "\t" + (GetGrade(studentGrades[0,1])));
 Console.WriteLine("Andrew:\t\t" + (studentGrades[1,1]) + "\t" +  (GetGrade(studentGrades[1,1])));
